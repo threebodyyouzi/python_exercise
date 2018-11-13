@@ -1,0 +1,32 @@
+#!/usr/local/bin/python3.6
+# from string import ascii_letters
+# a=set("abcd")
+# b=set("cdef")
+# c=set(["abc","def","gh","ij"])
+# d=set(ascii_letters)
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+# print(a & b)
+# print(a|b)
+# print(a-b)
+# print(a.issubset(d))
+# print(a.intersection(b))
+# print(a.union(b))
+# print(a.difference(b))
+# a.add("nihao")
+# print(a)
+# a.update("nihao")
+# print(a)
+# a.remove("a")
+# print(a)
+
+with open("/tmp/passwd") as fobj:
+    aset=set(fobj)
+with open("/tmp/mima") as fobj:
+    bset=set(fobj)
+print(aset)
+print("*"*50)
+print(bset)
+print(aset-bset)
