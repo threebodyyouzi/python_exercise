@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /python脚本/day04/venv/lib64/python2.7</title>
+ </head>
+ <body>
+<h1>Index of /python脚本/day04/venv/lib64/python2.7</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/python%e8%84%9a%e6%9c%ac/day04/venv/lib64/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="warnings.py">warnings.py</a>            </td><td align="right">2018-11-12 23:03  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="types.py">types.py</a>               </td><td align="right">2018-11-12 23:03  </td><td align="right">2.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="stat.py">stat.py</a>                </td><td align="right">2018-11-12 23:03  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sre_parse.py">sre_parse.py</a>           </td><td align="right">2018-11-12 23:03  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sre_constants.py">sre_constants.py</a>       </td><td align="right">2018-11-12 23:03  </td><td align="right">6.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sre_compile.py">sre_compile.py</a>         </td><td align="right">2018-11-12 23:03  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sre.py">sre.py</a>                 </td><td align="right">2018-11-12 23:03  </td><td align="right">384 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="site.py">site.py</a>                </td><td align="right">2018-11-12 23:03  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="site-packages/">site-packages/</a>         </td><td align="right">2018-11-12 23:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="re.py">re.py</a>                  </td><td align="right">2018-11-12 23:03  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="posixpath.py">posixpath.py</a>           </td><td align="right">2018-11-12 23:03  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="os.py">os.py</a>                  </td><td align="right">2018-11-12 23:03  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="orig-prefix.txt">orig-prefix.txt</a>        </td><td align="right">2018-11-12 23:03  </td><td align="right">  4 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="ntpath.py">ntpath.py</a>              </td><td align="right">2018-11-12 23:03  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="no-global-site-packages.txt">no-global-site-packa..&gt;</a></td><td align="right">2018-11-12 23:03  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="locale.py">locale.py</a>              </td><td align="right">2018-11-12 23:03  </td><td align="right"> 87K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="linecache.py">linecache.py</a>           </td><td align="right">2018-11-12 23:03  </td><td align="right">3.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="lib-dynload/">lib-dynload/</a>           </td><td align="right">2018-11-12 23:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="genericpath.py">genericpath.py</a>         </td><td align="right">2018-11-12 23:03  </td><td align="right">2.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="fnmatch.py">fnmatch.py</a>             </td><td align="right">2018-11-12 23:03  </td><td align="right">3.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="encodings/">encodings/</a>             </td><td align="right">2018-11-12 23:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="copy_reg.py">copy_reg.py</a>            </td><td align="right">2018-11-12 23:03  </td><td align="right">6.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="config/">config/</a>                </td><td align="right">2018-11-12 23:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="codecs.py">codecs.py</a>              </td><td align="right">2018-11-12 23:03  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="abc.py">abc.py</a>                 </td><td align="right">2018-11-12 23:03  </td><td align="right">7.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="_weakrefset.py">_weakrefset.py</a>         </td><td align="right">2018-11-12 23:03  </td><td align="right">5.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="_abcoll.py">_abcoll.py</a>             </td><td align="right">2018-11-12 23:03  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="UserDict.py">UserDict.py</a>            </td><td align="right">2018-11-12 23:03  </td><td align="right">5.7K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
