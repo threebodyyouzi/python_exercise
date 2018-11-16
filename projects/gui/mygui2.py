@@ -79,7 +79,7 @@ def editor():
         else:
             print(error_words("路径/文件已存在"))
 
-    top=tkinter.Tk()         #tkinter.Tk(),创建一个充当主窗口的控件
+    top=tkinter.Tk()         #tkinter.Tk(),调用Tk类创建一个实例,这个实例用来充当主窗口的控件
     top.title("我的文本编辑器")
     lb=tkinter.Label(text="My file")
     lb.pack()
@@ -87,15 +87,15 @@ def editor():
     # read_button["text"]="读取文件"
     # read_button["command"]=read_file(fname)
     create_button=tkinter.Button(top,text="创建文件",command=create_file)
-    create_button.pack(side="left")                                        #side参数定义实例所在的位置,有left,right,bottom,top四个值
+    create_button.pack(side="top")                                        #side参数定义实例所在的位置,有left,right,bottom,top四个值
     read_button=tkinter.Button(top,text="打开文件",command=read_file)
-    read_button.pack(side="left")
+    read_button.pack(side="top")
     write_button=tkinter.Button(top,text="编辑文件",command=write_file)
     write_button.pack(side="left")
     quit_button=tkinter.Button(top,text="退出",command=quit)
     quit_button.pack(side="left")
     contents = ScrolledText()
-    contents.pack(side="bottom",expand=True,fill="both")
+    contents.pack(side="bottom",expand=True,fill="both")  #expand参数用来打开/关闭fill属性
     fname=tkinter.Entry()                                 #获取输入的文本内容
     fname.pack(side="left", expand=True, fill="x")
     top.mainloop()
