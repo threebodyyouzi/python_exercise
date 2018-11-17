@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3.6
 from sys import argv
 def unix2dos(fname,end="\r\n"):
-    new_fname=fname+".dos"
+    new_fname=fname+".txt"
     with open(fname,"r") as src_file:
         with open(new_fname,"w") as dst_file:
             for line in src_file:
